@@ -1,3 +1,3 @@
 # Analog Clock
 
-It show Real Time and Date.
+It shows Real Time and Date.
